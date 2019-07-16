@@ -7,3 +7,9 @@ Quantifying the Performance Impact of SQL Antipatterns on Mobile Applications
 Yingjun Lyu, Ali Alotaibi, William G. J. Halfond
 In Proceedings of the International Conference on Software Maintenance and Evolution (ICSME). 2019.
 ```
+
+Before running the benchmark app, add the two files to the sdcard of the phone. The commands are
+
+adb push pattern.txt /sdcard/
+
+adb push ESAPI.properties /sdcard/
