@@ -13,3 +13,5 @@ Before running the benchmark app, add the two files to the sdcard of the phone. 
 adb push pattern.txt /sdcard/
 
 adb push ESAPI.properties /sdcard/
+
+Raw measurement data available at: https://drive.google.com/file/d/1Ib29F8eh634Vk_EDJHrWnSWVyI1tuYJj/view?usp=sharing
