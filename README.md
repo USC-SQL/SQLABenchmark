@@ -7,6 +7,7 @@ Quantifying the Performance Impact of SQL Antipatterns on Mobile Applications
 Yingjun Lyu, Ali Alotaibi, William G. J. Halfond
 In Proceedings of the International Conference on Software Maintenance and Evolution (ICSME). 2019.
 ```
+Preprint available at: http://www-scf.usc.edu/~yingjunl/lyu19icsme.pdf
 
 Before running the benchmark app, add the two files to the sdcard of the phone. The commands are
 
